@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979646342981",
+    "project_id": "aerial-d54f8",
+    "storage_bucket": "aerial-d54f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979646342981:android:b04ae14acd27bbc40dc02c",
+        "android_client_info": {
+          "package_name": "com.fivefour.aerial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979646342981-926fo723ffd1p9a7ucr90jq79olgi4j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fivefour.aerial",
+            "certificate_hash": "84f6575b0418db3d47238811626765ba05ca2c34"
+          }
+        },
+        {
+          "client_id": "979646342981-58t7m0e8jqhfqpmlsrhimvfntas9ht72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUBaz6pgBpPhGXTU4uZ74L_tcIIPXoLBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979646342981-58t7m0e8jqhfqpmlsrhimvfntas9ht72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

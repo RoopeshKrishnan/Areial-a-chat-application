@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">aerial</string>
+    <string name="displayNameOnSplashScreen">Aerial</string>
+    <string name="OTP_text">Areial will send you an OTP to the entered Mobile number</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="Otp">Enter the OTP number</string>
+    <string name="otp_check">Wrong Number? Resend..??</string>
+    <string name="verify">Verify</string>
+    <string name="profile_text">Save your profile</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="Toolbar_text">Areial</string>
+    <string name="chats">Chats</string>
+    <string name="calls">Calls</string>
+</resources>

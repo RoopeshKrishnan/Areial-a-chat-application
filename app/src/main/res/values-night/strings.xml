@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="displayNameOnSplashScreen">Aerial</string>
+    <string name="OTP_text">Areial will send you an OTP to the entered Mobile number</string>
+    <string name="otp_check">Wrong Number? Resend..??</string>
+    <string name="profile_text">Save your profile</string>
+    <string name="Toolbar_text">Areial</string>
+    <string name="chats">Chats</string>
+</resources>
